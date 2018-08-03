@@ -1,0 +1,26 @@
+#dream{
+  background-color: #777799;
+}
+p.normal  {
+  font-family:arial;
+  font-size:12;
+}
+
+p.special,h2,li {
+  font-weight: bold;
+  padding-top:12;
+  padding-bottom:12;
+}
+
+img.goodsize {
+  width:300px;
+}
+
+button:hover {
+  background-color:  orange
+}
+@media (maxwidth=300px) {
+img.goodsize  {
+  max-width: 100%;
+}
+}
