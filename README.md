@@ -15,4 +15,7 @@ There are four pages.  The index plus one page for each of the three phases
 of my life.  In index page has a menu that allows branching to each of the three
 phases.  Each of the three phases has a return button.
 
-2   
+2  The web site must include the following lists
+-  ordered list - see comment 2.1  - the bucket list in retired.HTML
+-  one table  -  see comment 2.2 - the family structure table in youth.html 
+-  one image -  see comment 2.3 - photo in index.html
