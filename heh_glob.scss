@@ -1,0 +1,8 @@
+# use scss to test global concepts
+$fntsize: 12;
+table  {
+  font-size: $fntsize;
+  th {
+    font-size: 18;
+  }
+  }
