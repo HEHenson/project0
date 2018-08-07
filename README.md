@@ -45,3 +45,7 @@ A key feature of CSS is the flexibility of the  selectors. 12 examples are detai
 - 5.1  used to resize grid
 6  Use Bootstrap 4
 - 6.1 imports it into the adult.html style
+7 scss/sas
+Note that SASS moves the comments around between the two files.  
+- 7.1 in heh_glob.css/scss shows example of variable
+- 7.2 in heh_glob.css/scss shows example of nesting

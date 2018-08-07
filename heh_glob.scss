@@ -1,12 +1,13 @@
-# use scss to test global concepts
-$fntsize: 18;
-table  {
-  font-size: $fntsize;
-  th {
-    font-size: 18;
-  }
-  td{
-    font-family: monospace;
-    font-size: $fntsize;
-  }
-  }
+/* 7.1 example of a variable */
+$fntsize: 23;
+
+/* 7.2 example of nesting */
+body {
+    .th {
+      font-size: 18;
+      }
+    .td {
+      font-family: monospace ;
+      font-size: $fntsize ;
+      }
+   }
