@@ -5,4 +5,8 @@ table  {
   th {
     font-size: 18;
   }
+  td{
+    font-family: monospace;
+    font-size: $fntsize;
+  }
   }
