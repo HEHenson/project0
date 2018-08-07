@@ -1,17 +1,19 @@
+/* 4.11  */
 #dream{
   background-color: #777799;
 }
+/*  CSS property 4.1,4.2,4.6  */
 p.normal  {
   font-family:arial;
   font-size:12;
 }
-
+/*  CSS property  4.3,4.4,4.5,4.7 */
 p.special,h2,li {
   font-weight: bold;
   padding-top:12;
   padding-bottom:12;
 }
-
+/* 4.8 */
 img.goodsize {
   width:300px;
 }
@@ -19,6 +21,8 @@ img.goodsize {
 button:hover {
   background-color:  orange
 }
+
+/* 5.1 */
 @media (maxwidth=300px) {
 img.goodsize  {
   max-width: 100%;
