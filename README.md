@@ -26,20 +26,22 @@ is an academic exercise. However, note that most of the text is in the Arial fon
 4 Must have 12 selector examples (5+5+1+1)
 A key feature of CSS is the flexibility of the  selectors. 12 examples are detailed
 - 5 Different CSS properties
-    5.1 p.normal and font-family in heh_style.css
-    5.2 p.normal and font-size in heh_style.css
-    5.3 p.special and font-weight  in heh_style.css
-    5.4 p.special and padding-top in heh_style.css
-    5.5 p.special and padding-bottom in heh_style.css
+    4.1 p.normal and font-family in heh_style.css
+    4.2 p.normal and font-size in heh_style.css
+    4.3 p.special and font-weight  in heh_style.css
+    4.4 p.special and padding-top in heh_style.css
+    4.5 p.special and padding-bottom in heh_style.css
 - 5 Different CSS selectors
-    5.6 .normal selects normal in p
-    5.7 .special creates a new selector in p
-    5.8 .goodsize is selected for image size
-    5.9
-    5.10
-- use an  ID selector
-    5.11 dream is selected with # in heh_style.css
-- use a class selector
-    5.12  
-- 1 id selection #
-- 1 .class selector
+    4.6 .normal selects normal in p
+    4.7 .special creates a new selector in p
+    4.8 .goodsize is selected for image size
+    4.9 .grid-item is defined in the head of adult.html
+    4.10 .grid  is defined in the head of adult.html
+- 1 use of an  ID selector
+    4.11 dream is selected with # in heh_style.css
+- 1 use of a class selector
+    4.12  in adult.html
+5  Demonstrate use of @media
+- 5.1  used to resize grid
+6  Use Bootstrap 4
+- 6.1 imports it into the adult.html style
